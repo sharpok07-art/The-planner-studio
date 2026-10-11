@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sharpok07-art.github.io/The-planner-studio/sitemap.xml
